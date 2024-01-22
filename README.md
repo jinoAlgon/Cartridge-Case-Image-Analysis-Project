@@ -15,6 +15,9 @@ This project focuses on the analysis of cartridge case images using advanced mac
 The dataset comprises 2625 topographic scans of breech face impressions on fired cartridge case primers. It is used for training, testing, and validating the machine learning model. Due to the large size of the dataset, we employed data augmentation techniques and carefully split the dataset into training, testing, and validation sets.
 
 [Dataset Link](https://iastate.figshare.com/articles/dataset/Topographic_Scans_of_Breech_Face_Impressions_on_Cartridge_Case_Primers/23837100?file=42400335)
+
+Using the Roboflow tool the dataset has been annotated and augmented to enhance the training process of our machine learning model.
+
 [Annotated and Augmented Dataset Link](https://github.com/jinoAlgon/Cartridge-Case-Image-Analysis-Project/blob/main/masking_catridge-2.zip)
 
 ## Installation and Usage
